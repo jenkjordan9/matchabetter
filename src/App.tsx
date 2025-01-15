@@ -1,4 +1,4 @@
-import matchalogo from './assets/WhatsApp Image 2025-01-15 at 15.58.08_bec40c1f.jpg'
+import matchalogo from './assets/matcha.jpg'
 import './App.css'
 
 function App() {
